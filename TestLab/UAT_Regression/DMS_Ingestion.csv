@@ -1,0 +1,6 @@
+Execute,TestScenario,TestCase,Iteration,Status,Browser,BrowserVersion,Platform
+true,UAT_DMS_Scenarios,EmailIngestion_WithoutAttachments,1:50,NoRun,Chrome Headless,Default,Any
+true,UAT_DMS_Scenarios,Email_Ingestion,1:50,NoRun,Chrome Headless,Default,Any
+true,UAT_DMS_Scenarios,Fax_Ingestion,1:5,NoRun,Chrome Headless,Default,Any
+true,UAT_DMS_Scenarios,Scan_Ingestion,1:5,NoRun,Chrome Headless,Default,Any
+true,UAT_DMS_Scenarios,OCR_Testing,1:5,NoRun,Chrome Headless,Default,Any
